@@ -74,7 +74,7 @@ Multilanguage
 
 Step 1 — Via SysLinuxOS APT repository (recommended)
 
-    curl -fsSL https://fconidi.github.io/SysLinuxOS-Tools/client/](https://github.com/bash-chroot-cyber/Kali-DistroClone-backup.git install-repo.sh | sudo bash
+    curl -fsSL https://github.com/bash-chroot-cyber/Kali-DistroClone-backup.git install-repo.sh | sudo bash
     
     sudo apt install distroclone-backup
 
